@@ -37,6 +37,8 @@
 
 🎭 Depency's: https://github.com/JayMontana36/mythic_notify
 
+💙 Yes, i know, there is some things wrotten in Finnish, cause i am from Finland.
+
 📃 Docs how to make a command for a function:
 
 💻 Just add that to a client.lua
