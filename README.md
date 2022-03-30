@@ -15,10 +15,6 @@
 
    • NEW Icons for all menu functions
 
-   • NEW Keybind configurable within GTA settings, default key is F (Modified by me)
-
-   • NEW Added escape key if the NUI focus doesn’t return as expected ( /    ) (Don't think works...)
-
    Added by me:
    
    • Can be used on foot or in car!
