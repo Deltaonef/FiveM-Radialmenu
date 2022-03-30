@@ -27,6 +27,8 @@
 
    • Notations to make custom functions.
 
+   • UI style changes!
+
    • /radialfix command incase the menu freezes! (Unfortunately it happens often, if you know how to fix it contact me.)
 
 🆘 Do you need any help? Contact me on discord! @Alphaonef#3658
