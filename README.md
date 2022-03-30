@@ -6,18 +6,27 @@
    From the original script:
   
    • Hood/Trunk Commands
+
    • Door/Window Commands
+
    • Engine on/off Command
+
    • Seat change Command
+
    • NEW Icons for all menu functions
+
    • NEW Keybind configurable within GTA settings, default key is F (Modified by me)
+
    • NEW Added escape key if the NUI focus doesn’t return as expected ( /    ) (Don't think works...)
 
    Added by me:
    
    • Can be used on foot or in car!
+
    • Added multiple custom classes with pre-made features like clothing, dpEmotes things...!
+
    • Notations to make custom functions.
+
    • /radialfix command incase the menu freezes! (Unfortunately it happens often, if you know how to fix it contact me.)
 
 🆘 Do you need any help? Contact me on discord! @Alphaonef#3658
