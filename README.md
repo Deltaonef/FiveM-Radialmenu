@@ -13,8 +13,6 @@
 
    • Seat change Command
 
-   • NEW Icons for all menu functions
-
    Added by me:
    
    • Can be used on foot or in car!
