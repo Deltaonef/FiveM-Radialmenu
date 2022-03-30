@@ -18,12 +18,12 @@ RegisterNUICallback('close', function(data, cb) -- Return focus on close
     SetNuiFocus(false, false)
 end)
 
---[[RegisterNUICallback('command', function(data, cb) -- Execute command from block clicked
+RegisterNUICallback('command', function(data, cb) -- Execute command from block clicked
     local itemId = data.itemId
     ExecuteCommand(itemId)
-end)]]--
+end)
 
-RegisterNUICallback('command', function(data)
+--[[RegisterNUICallback('command', function(data)
     local itemData = data.itemData
 
     if itemData.type == 'client' then
@@ -31,7 +31,7 @@ RegisterNUICallback('command', function(data)
     elseif itemData.type == 'server' then
         TriggerServerEvent(itemData.event, itemData)
     end
-end)
+end)]]
 
 RegisterCommand('radialfix', function()
     SetNuiFocus(false, false)
