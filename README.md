@@ -25,6 +25,11 @@
 
    • /radialfix command incase the menu freezes! (Unfortunately it happens often, if you know how to fix it contact me.)
 
+
+   Added by the community:
+
+   • Update from Puntzi: Optimization
+
 🆘 Do you need any help? Contact me on discord! @Alphaonef#3658
 
 💬 FiveM Finland Discord: https://discord.gg/xZFG69p3Cx
